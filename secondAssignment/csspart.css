@@ -1,0 +1,36 @@
+li{
+color: rgba(0, 13, 255, 0.449);
+}
+
+section {
+ font-size: x-large;
+
+}
+#hobbies ul {
+    list-style-type: none;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+#hobbies li {
+    margin: 0 20px; /* Add some space between the items */
+    text-align: center; /* Center text within the list item */
+    
+}
+
+p{
+    
+    front-size: x-large;
+
+}
+
+img{/*edit the width and the height of the pictures*/
+    width: 10pc;
+    height: 15pc;
+}
+body{
+    background-color:rgb(237, 206, 232);
+}
+h1{
+    color:rgb(145, 4, 105);
+}
